@@ -32,3 +32,29 @@
   height: 22px !important;
   background-color: coral;
 }
+.header-nav {
+  display: flex;
+  justify-content: space-evenlyz;
+}
+.header-optionOne {
+  font-size: 18px;
+}
+.header-optionTwo {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header-option {
+  display: flex;
+  flex-direction: column;
+  margin-left: px;
+  margin-right: 10px;
+}
+.header-basketCount {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.header-optionBasket {
+  display: flex;
+  align-items: center;
+}
